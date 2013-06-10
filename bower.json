@@ -1,0 +1,17 @@
+{
+  "name": "FirstTest",
+  "version": "0.0.0",
+  "dependencies": {
+    "es5-shim": "~2.0.0",
+    "flight": "~1.0.7",
+    "jquery": "~1.9.1",
+    "requirejs": "~2.1.5",
+    "less.js": "*",
+    "d3":"~3.1.10",
+    "flight-barchart": "*"
+  },
+  "devDependencies": {
+    "flight-jasmine": "~1.0.0",
+    "jasmine-jquery": "~1.5.0"
+  }
+}
